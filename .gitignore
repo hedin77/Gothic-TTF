@@ -1,0 +1,18 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Gothic-TTF/v17
+/.vs/Gothic-TTF/v17/.wsuo
+/.vs/Gothic-TTF/v17/DocumentLayout.json
+/.vs/TTF
+/.vs/TTF/FileContentIndex
+/.vs/TTF/FileContentIndex/f13054b4-073b-459d-b626-59c0f15f5088.vsidx
+/.vs/TTF/v17
+/.vs/TTF/v17/Browse.VC.db
+/.vs/TTF/v17/Browse.VC.db-shm
+/.vs/TTF/v17/Browse.VC.db-wal
+/.vs/TTF/v17/Browse.VC.opendb
+/.vs/TTF/v17/ipch/AutoPCH/a6409754878ac35
+/.vs/TTF/v17/ipch/AutoPCH/a6409754878ac35/DLLMAIN.ipch
+/.gitignore
